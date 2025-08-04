@@ -10,19 +10,15 @@
 <!-- Failed to upload "White Clean Minimalist LinkedIn Banner (1).png" -->
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/357b0907-2aad-4cbd-90ca-4f32aa64d8ad" />
 <img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/bcbcba4d-b011-450c-8d95-08de9bcf3269" />
-
 <img width="2245" height="1587" alt="Image" src="https://github.com/user-attachments/assets/346c3663-e96c-4854-81b8-6d7b0a9947a8" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e36e3a99-cc7d-4945-b102-47f7b7c058b2" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b9be6e7f-530c-4b8b-afcb-9b978193ef96" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1cd2a802-8c3b-42e4-8963-1e53a1f12f24" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2c37bfd9-9986-4b5f-b18f-886b48593d1b" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/cdb1c143-638d-483e-a17d-c602ac3a73a9" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2dc08526-7852-4b44-881e-a0b41db87797" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2ba183e2-1929-41bd-9d0d-fc5ad92c0425" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b6ac6447-9c8d-4195-9457-f9c610b71496" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/97a5b9a6-2ff1-4f2b-ae0b-090e7291d5f7" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/29920318-eef3-4898-8469-23f67e7dda7b" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/764d8c84-27e6-4f5b-920e-f2aff48b7480" />
@@ -53,7 +49,6 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fa4f6637-14a2-4fca-873a-e8d324d423bf" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/469dea0d-d4bd-4aa4-a5f5-222104e6cc2e" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/dc075d68-d341-40e5-b5d8-02409d7233bf" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6f931f03-d74f-4491-b7aa-d2b6269522c8" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/adc7a409-6f57-4186-98d9-7cf5a4032574" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08238f97-48b2-4956-a966-2f1c80fb73fe" />
@@ -83,7 +78,6 @@
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/025d459b-e758-4e71-a7ed-c975f35eb594" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d43b71b2-7d89-4a86-ac38-6da5eec393f7" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8df70735-8d58-4f21-b535-77ae45807303" />
-
 <img width="1130" height="631" alt="Image" src="https://github.com/user-attachments/assets/4f97aeee-9500-4ba8-9070-d89521efe86a" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/23f73f9b-bc72-40ce-b3d0-6ec9d1b9de00" />
 <img width="1177" height="659" alt="Image" src="https://github.com/user-attachments/assets/665ea900-b898-44cd-b0fb-86158884e2c4" />
@@ -104,21 +98,20 @@
 <img width="1531" height="845" alt="Image" src="https://github.com/user-attachments/assets/f5231b2f-db6e-4eeb-b9bf-ed100eb8f121" />
 <img width="1326" height="751" alt="Image" src="https://github.com/user-attachments/assets/b67ad062-4509-43c2-a42e-bc552ddb4cff" />
 <img width="1132" height="641" alt="Image" src="https://github.com/user-attachments/assets/354a71a7-38d0-46a2-883c-7832794329a3" />
-
+<img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/58fa5fee-08c0-40ad-9ece-f048214df818" />
+<img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/3f4b835f-859d-4aea-8d74-e20d6b7d81c9" />
+<img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/330daf54-1e60-447c-810b-0462b33c318f" />
+<img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f4aa25c1-26be-4732-b430-d19503935e19" />
+<img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/96f8075a-7802-4903-9677-dac556c68418" />
 <img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/edb6b8ce-4d06-41f9-b244-52d9f4929377" />
 <img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/69975868-232b-4d43-9505-ae3f36be9919" />
 <img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/9e772da3-2535-4089-8c2e-1eff356e91a3" />
-
 <img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/edc46769-a500-4ee1-9d42-7ad48b03fc9c" />
-
 <img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/0d847527-3602-46fd-895b-689c584f769a" />
-
 <img width="1080" height="1920" alt="Image" src="https://github.com/user-attachments/assets/5aa5f8ac-64cb-4fbc-91f0-7c823676b5ef" />
-
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a25a9903-c60a-4dd4-9b91-0141f873961a" />
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/699cca2a-4caa-4d74-a12c-a6e8a193c8f7" />
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b448218f-a78d-4284-8e5d-f05b778e7a5d" />
-
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b6576e48-f795-41d3-83dc-754097a56566" />
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/828f5be6-af72-4aca-a298-60bf02afd717" />
 <img width="1080" height="1080" alt="Image" src="https://github.com/user-attachments/assets/24034361-9693-4a9b-99d7-0194caf6cf6b" />
