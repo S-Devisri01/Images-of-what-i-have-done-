@@ -1,2 +1,1 @@
-# Images-of-what-i-have-done-
-Everything in this same file as image formats
+# Everything in this same file as image formats
